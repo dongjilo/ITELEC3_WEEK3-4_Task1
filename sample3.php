@@ -15,7 +15,7 @@
 </head>
 <body>
 <div class="card card-cstm p-5" style="width: 35rem">
-    <div class="container"><h1 class="h1">Enter Age:</h1></div>
+    <div class="container my-3"><h1 class="h1 text-center">Voters Form</h1></div>
     <div class="container">
         <form action="<?php $_PHP_SELF; ?>" method="post">
             <div class="form-floating">

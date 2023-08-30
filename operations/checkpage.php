@@ -1,4 +1,3 @@
-
 <?php
 $age = $_POST['ageValue'];
 
