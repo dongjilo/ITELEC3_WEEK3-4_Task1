@@ -30,7 +30,7 @@
                 <label for="floatingSelectGrid">Select your order here</label>
             </div>
             <div class="container-fluid mt-3 text-center">
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" class="btn btn-primary">Check</button>
                 <button type="reset" class="btn btn-secondary">Cancel</button>
             </div>
             <br>
